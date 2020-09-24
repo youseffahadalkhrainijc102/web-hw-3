@@ -1,0 +1,32 @@
+.bc{
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+}
+
+
+.bcc{
+    display: flex;
+}
+
+.bsss{display: flex;
+
+}
+
+.bss{;}
+.tt{
+    display: flex;
+
+}
+.ttt{
+    margin-left: 70px;
+}
+
+
+html, body {
+    height: 100%;
+  }
+  
+  .full-height {
+    height: 100%;
+  }
